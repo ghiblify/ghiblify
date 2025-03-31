@@ -2,7 +2,7 @@
 
 Transform your ordinary photos into magical Studio Ghibli-style artwork with AI.
 
-[Try Now](https://ghiblify.run)
+[Try Ghiblify Now](https://ghiblify.run)
 
 ## About Ghiblify
 
