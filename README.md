@@ -32,6 +32,18 @@ Ghiblify offers flexible pricing options:
 - **One-time Plan A**: 10 transformations valid for 1 year, high-resolution downloads ($9.99)
 - **One-time Plan B**: 50 transformations valid for 1 year, high-resolution downloads ($19.99)
 
+
+## Contact & Support
+
+- **Email**: support@ghiblify.run
+- **Discord Community**: [Join our Discord](https://discord.gg/qKtjAGPt)
+
+## Legal
+
+- **Privacy Policy**: [View Privacy Policy](https://ghiblify.run/privacy-policy)
+- **Terms of Service**: [View Terms of Service](https://ghiblify.run/terms-of-service)
+
+
 ## testimonial
 - [hacker news](https://news.ycombinator.com/item?id=43541776)
 - [wix](https://nl.wix.com/blog/post/15-toffe-wix-website-voorbeelden-die-je-inspireren)
@@ -108,13 +120,3 @@ Ghiblify offers flexible pricing options:
 - [paragon-software](https://developers.paragon-software.com/community/profile/httpsdestiny-matrix-cc/)
 - [velog](https://velog.io/@blackbean99/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9E%90%EA%B2%A9%EC%A6%9D%EC%9D%84-%EC%99%9C-%EB%94%B0)
 
-
-## Contact & Support
-
-- **Email**: support@ghiblify.run
-- **Discord Community**: [Join our Discord](https://discord.gg/qKtjAGPt)
-
-## Legal
-
-- **Privacy Policy**: [View Privacy Policy](https://ghiblify.run/privacy-policy)
-- **Terms of Service**: [View Terms of Service](https://ghiblify.run/terms-of-service)
