@@ -32,6 +32,13 @@ Ghiblify offers flexible pricing options:
 - **One-time Plan A**: 10 transformations valid for 1 year, high-resolution downloads ($9.99)
 - **One-time Plan B**: 50 transformations valid for 1 year, high-resolution downloads ($19.99)
 
+## testimonial
+- [hacker news](https://news.ycombinator.com/item?id=43541776)
+- [wix](https://nl.wix.com/blog/post/15-toffe-wix-website-voorbeelden-die-je-inspireren)
+- [devopst](https://devpost.com/software/ghiblify-run)
+- 
+
+
 
 ## Contact & Support
 
