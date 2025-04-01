@@ -36,7 +36,18 @@ Ghiblify offers flexible pricing options:
 - [hacker news](https://news.ycombinator.com/item?id=43541776)
 - [wix](https://nl.wix.com/blog/post/15-toffe-wix-website-voorbeelden-die-je-inspireren)
 - [devopst](https://devpost.com/software/ghiblify-run)
-- 
+- [googleblog](https://developers-id.googleblog.com/2023/03/vidio-perkuat-kesuksesannya-di.html?sc=1743470019840#c4571883713845287971)
+- [ualberta](https://icon4.biology.ualberta.ca/scientific-organizing-committee/#comment-664199)
+- [xrea](http://eivissa.s3.xrea.com/ClubSantAntoni/)
+- [ticksy](https://veented.ticksy.com/ticket/3606708)
+- [acm](https://interactions.acm.org/blog/view/embodied-games-from-nyu-itp/comment_added#comments)
+- [sakura](http://www15420ui.sakura.ne.jp/snapblog/diary/class/20081129_02.htm#wb)
+- [jcyl](https://www.educa.jcyl.es/blogs/en/leyendo/fase-provincial-burgos-i-certamen-lectura-publico)
+- [hackmd](https://hackmd.io/pvbO02D9ROWtJu1ODHq10Q?utm_source=comment-card&utm_medium=icon)
+- [tributearchive](https://www.tributearchive.com/resources/2bc817b7-9db2-44d1-a919-0115b60711b3/finding-the-right-grief-counselor)
+- [hackweek](https://hackweek.opensuse.org/projects/early-stage-kdump-support)
+- [ufba](https://noosfero.ufba.br/freeaccounts/blog/apk-download#!)
+- [maxperformanceinc](https://forums.maxperformanceinc.com/forums/album.php?albumid=1937&pictureid=14282)
 
 
 
