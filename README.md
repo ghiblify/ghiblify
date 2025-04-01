@@ -119,4 +119,13 @@ Ghiblify offers flexible pricing options:
 - [dcinside](https://gall.dcinside.com/board/view/?id=igjdivision&no=7753)
 - [paragon-software](https://developers.paragon-software.com/community/profile/httpsdestiny-matrix-cc/)
 - [velog](https://velog.io/@blackbean99/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%9E%90%EA%B2%A9%EC%A6%9D%EC%9D%84-%EC%99%9C-%EB%94%B0)
+- [avodamehabait](https://www.avodamehabait.net/post/amazing-free-photos-images-for-download)
+- [siapabilang](https://siapabilang.com/hashtag/IcipIcipBuku/)
+- [dickinson](https://blogs.dickinson.edu/outing-club/2014/09/09/intro-to-camping-912/#comment-497250)
+- [izolacniskla](http://www.izolacniskla.cz/forum-detail.php?dt_id=29328)
+- [tvworthwatching](http://www.tvworthwatching.com/BlogPostDetails.aspx?postId=5807)
+- [proweb](https://volejbalrepy.proweb.cz/rozpisy/kde-najdu-spolehlivy-obchod-s-jednorazovymi-elektronickymi-cigaretami-6058/prispevek-vytvoren#pwcmfef-post-56220)
+
+
+
 
