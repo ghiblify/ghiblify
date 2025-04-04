@@ -201,8 +201,19 @@ Ghiblify offers flexible pricing options:
 - [cyberlord](https://www.cyberlord.at/forum/?id=11711&thread=308&page=1)
 - [koreaportal](https://kwave.koreaportal.com/board/bbs/board.php?bo_table=drama&wr_id=73939&page=0&sca=&sfl=&stx=&spt=0&page=0&btype=tile&cwin=#c_91612)
 - [jobcase](https://www.jobcase.com/articles/professional-references-what-they-are-who-to-ask-and-the-importance-of-having-them)
-
-
+- [journal-theme](https://www.journal-theme.com/1/blog/season-essentials)
+- [pinchofyum](https://pinchofyum.com/angs-chicken-wraps#comment-993423)
+- [chambers](http://www.chambers.com.au/glossary/milestone.php?frm=4&pstid=34&page=1#comments)
+- [chambers](http://www.chambers.com.au/glossary/milestone.php?frm=4&pstid=34&page=1#comments)
+- [crowdicity](https://makerchallenge.crowdicity.com/post/657432)
+- [phacility](https://admin.phacility.com/F322593)
+- [atw.hu](http://users.atw.hu/nlw/viewtopic.php?p=51408#51408)
+- [jitbit](https://connexity.jitbit.com/Ticket/84373702)
+- [loveandlemons](https://www.loveandlemons.com/picnic-food-ideas/comment-page-1/#comment-687173)
+- [fitfoodiefinds](https://fitfoodiefinds.com/super-food-detox-salad/)
+- [wind](http://www3.wind.ne.jp/snowbravo/gesc_cgi/diarypro/diary.cgi?mode=comment&no=241)
+- [proweb](https://volejbalrepy.proweb.cz/rozpisy/space-waves-6179/prispevek-vytvoren#pwcmfef-post-56357)
+- [modernanalyst](https://www.modernanalyst.com/Careers/Jobs/BusinessAnalystJobs/tabid/267/agentType/View/PropertyID/4413/PropertyAgentID/93081/Sr-Technology-Business-Manager--Stanford-Health-Care-Palo-Alto.aspx)
 
 
 
