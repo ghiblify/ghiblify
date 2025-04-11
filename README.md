@@ -220,6 +220,8 @@ Ghiblify offers flexible pricing options:
 - [sourceforge](https://sourceforge.net/projects/ghiblify/)
 - [saashub](https://www.saashub.com/ghiblify-run)
 - [alternativeto](https://alternativeto.net/software/ghiblify/about/)
+- [theneuron](www.theneuron.ai/newsletter/openais-new-feature-and-secret-model)
+- [webcatalog](https://webcatalog.io/zh-TW/apps/ghiblify)
 
 
 
