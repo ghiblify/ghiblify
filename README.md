@@ -219,6 +219,7 @@ Ghiblify offers flexible pricing options:
 - [eq-ccqqfar](https://eq-ccqqfar.usac.edu.gt/del-20-al-23-08-2018-visita-de-pares-evaluadores-de-la-carrera-de-quimica/#comment-813671)
 - [sourceforge](https://sourceforge.net/projects/ghiblify/)
 - [saashub](https://www.saashub.com/ghiblify-run)
+- [alternativeto](https://alternativeto.net/software/ghiblify/about/)
 
 
 
