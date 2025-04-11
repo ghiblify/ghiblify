@@ -217,6 +217,8 @@ Ghiblify offers flexible pricing options:
 - [fitlivingeats](https://www.fitlivingeats.com/how-to-make-juice-without-a-juicer-3-green-juice-recipes/#comment-54758)
 - [php-resource](https://www.php-resource.de/forum/it-security/1047106-ai-nude-tool%E2%80%94make-deepnude-deepfake-for-free)
 - [eq-ccqqfar](https://eq-ccqqfar.usac.edu.gt/del-20-al-23-08-2018-visita-de-pares-evaluadores-de-la-carrera-de-quimica/#comment-813671)
+- [sourceforge](https://sourceforge.net/projects/ghiblify/)
+- [saashub](https://www.saashub.com/ghiblify-run)
 
 
 
