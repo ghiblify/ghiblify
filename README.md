@@ -222,6 +222,7 @@ Ghiblify offers flexible pricing options:
 - [alternativeto](https://alternativeto.net/software/ghiblify/about/)
 - [theneuron](www.theneuron.ai/newsletter/openais-new-feature-and-secret-model)
 - [webcatalog](https://webcatalog.io/zh-TW/apps/ghiblify)
+- [saashub](https://www.saashub.com/ghiblify-run)
 
 
 
