@@ -223,6 +223,9 @@ Ghiblify offers flexible pricing options:
 - [theneuron](www.theneuron.ai/newsletter/openais-new-feature-and-secret-model)
 - [webcatalog](https://webcatalog.io/zh-TW/apps/ghiblify)
 - [saashub](https://www.saashub.com/ghiblify-run)
+- [frankwatching](https://www.frankwatching.com/archive/2023/01/31/ai-tools-content-tips/#comment-807920)
+- [paleorunningmomma](https://www.paleorunningmomma.com/garlic-tuscan-shrimp-paleo-whole30/#comment-566394)
+- [heatherlikesfood](https://heatherlikesfood.com/microwave-chocolate-chip-pizookie/comment-page-2/?unapproved=699171&moderation-hash=38ff3afa37e14091456cc9e341a96b22#comment-699171)
 
 
 
